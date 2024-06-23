@@ -8,5 +8,5 @@ print("Hi", "Aaysha", "Kazi")
 print("I am Good Person",end="_")
 print("I am Bad Person")
 
-# Paython is case sensitive
+# Python is case sensitive
 # Print("Hi")
